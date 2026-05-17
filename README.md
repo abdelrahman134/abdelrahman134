@@ -12,7 +12,7 @@
 - ☁️ **Certified:** Databricks Certified Data Engineer Associate & AWS Certified Cloud Practitioner
 - 🏗️ **Architectures:** Passionate about implementing Medallion architectures (Bronze, Silver, Gold) for high-quality data delivery.
 - 🚀 **Currently Building:** Expanding my expertise in real-time event streaming pipelines and modern data warehouse solutions.
-- 📫 **How to reach me:** [Link your LinkedIn here]
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohab-mahmoud-223a73222/)
 
 ### 🛠️ Tech Stack & Tools
 
