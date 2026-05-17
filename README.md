@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abdelrahman (Abdo) 👋</h1>
+<h1 align="center">Hi there, I'm Abdelrahman Mohab Mahmoud 👋</h1>
 <h3 align="center">Data Engineer | Building Scalable Data Pipelines & Streaming Architectures</h3>
 
 <p align="center">
