@@ -41,10 +41,6 @@ An end-to-end data warehouse solution engineered using a **Medallion architectur
 - **Tech Stack:** AWS S3, Snowflake, dbt
 - **Highlights:** Designed robust ETL/ELT layers to transform raw data into analytics-ready models.
 
-#### 🚢 Project Neptune (Maritime Logistics)
-A collaborative big data pipeline designed to handle geospatial and sensor data for maritime logistics.
-- **Tech Stack:** Apache Kafka, Apache Spark (PySpark), Apache HBase
-- **Highlights:** Built over an 8-week period with a 5-person team, focusing on efficient data ingestion and distributed storage for high-volume sensor feeds.
 
 ---
 <p align="center">
